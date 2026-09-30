@@ -1,0 +1,3 @@
+Die Originale Rohdatein überschreitet das Github-Limit von 100MB, weshalb diese nicht direkt hier im Repository ist.
+Herunterladen kann man die Datei hier: https://www.consumerfinance.gov/foia-requests/foia-electronic-reading-room/cfpb-consumer-complaint-database-narratives-archive/
+Verwendet wurde: CCDB Export January 2026 through February 2026

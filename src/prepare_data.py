@@ -35,6 +35,10 @@ df = df[
     df["Consumer complaint narrative"].str.len() >= 50
 ]
 
+df = df.drop_duplicates(
+    subset=["Consumer complaint narrative"]
+)
+
 if len(df) > MAX_DOCUMENTS:
     df = df.sample(
         n=MAX_DOCUMENTS,
