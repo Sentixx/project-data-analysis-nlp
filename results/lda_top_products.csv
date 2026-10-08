@@ -1,0 +1,46 @@
+lda_topic,Product,count
+1,Credit card,187
+1,Mortgage,122
+1,"Payday loan, title loan, personal loan, or advance loan",78
+2,Debt collection,410
+2,Credit card,6
+2,Credit reporting or other personal consumer reports,3
+3,Mortgage,114
+3,Debt collection,17
+3,Student loan,10
+4,Vehicle loan or lease,196
+4,Credit card,128
+4,Student loan,75
+5,Debt collection,815
+5,Credit reporting or other personal consumer reports,10
+5,Credit card,9
+6,Checking or savings account,187
+6,"Money transfer, virtual currency, or money service",158
+6,Student loan,100
+7,Checking or savings account,295
+7,Credit card,52
+7,"Money transfer, virtual currency, or money service",45
+8,Debt collection,244
+8,Checking or savings account,243
+8,"Money transfer, virtual currency, or money service",159
+9,Checking or savings account,422
+9,Credit card,308
+9,Debt collection,292
+10,Debt collection,791
+10,Credit reporting or other personal consumer reports,166
+10,Credit card,92
+11,Checking or savings account,321
+11,Credit card,296
+11,"Money transfer, virtual currency, or money service",219
+12,Credit card,353
+12,Checking or savings account,130
+12,Prepaid card,45
+13,Debt collection,115
+13,Vehicle loan or lease,28
+13,Checking or savings account,24
+14,Credit card,25
+14,Checking or savings account,17
+14,"Money transfer, virtual currency, or money service",2
+15,Debt collection,141
+15,Checking or savings account,100
+15,Credit card,80

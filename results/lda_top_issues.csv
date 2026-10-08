@@ -1,0 +1,46 @@
+lda_topic,Issue,count
+1,Fees or interest,77
+1,Trouble during payment process,68
+1,Charged fees or interest you didn't expect,37
+2,Attempts to collect debt not owed,194
+2,False statements or representation,102
+2,Written notification about debt,77
+3,Struggling to pay mortgage,46
+3,Trouble during payment process,35
+3,Applying for a mortgage or refinancing an existing mortgage,17
+4,Incorrect information on your report,103
+4,Repossession,66
+4,Managing the loan or lease,62
+5,Attempts to collect debt not owed,282
+5,Written notification about debt,174
+5,False statements or representation,150
+6,Managing an account,133
+6,Dealing with your lender or servicer,66
+6,Trouble during payment process,36
+7,Managing an account,135
+7,Closing an account,103
+7,Opening an account,28
+8,Managing an account,146
+8,Communication tactics,84
+8,Fraud or scam,66
+9,Managing an account,271
+9,Attempts to collect debt not owed,123
+9,Trouble during payment process,122
+10,Attempts to collect debt not owed,463
+10,Incorrect information on your report,149
+10,False statements or representation,123
+11,Problem with a purchase shown on your statement,259
+11,Managing an account,203
+11,Problem with a lender or other company charging your account,105
+12,Problem with a purchase shown on your statement,197
+12,Managing an account,66
+12,Problem with a lender or other company charging your account,44
+13,Attempts to collect debt not owed,35
+13,Written notification about debt,28
+13,False statements or representation,24
+14,"Advertising and marketing, including promotional offers",12
+14,Opening an account,12
+14,"Other features, terms, or problems",10
+15,Attempts to collect debt not owed,102
+15,Managing an account,51
+15,Getting a credit card,32
