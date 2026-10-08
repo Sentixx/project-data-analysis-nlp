@@ -1,46 +1,16 @@
 lda_topic,Product,count
-1,Checking or savings account,737
-1,"Money transfer, virtual currency, or money service",378
-1,Credit card,191
-2,Mortgage,196
-2,Student loan,35
-2,Debt collection,15
-3,Debt collection,239
-3,Credit card,16
-3,Credit reporting or other personal consumer reports,8
-4,Checking or savings account,232
-4,Credit card,82
-4,"Money transfer, virtual currency, or money service",73
-5,Credit card,3
-5,Debt collection,3
-5,Mortgage,3
-6,Credit card,440
-6,Checking or savings account,145
-6,"Money transfer, virtual currency, or money service",100
-7,Debt collection,625
-7,Credit reporting or other personal consumer reports,112
-7,Credit card,92
-8,Debt collection,1160
-8,Credit card,15
-8,Credit reporting or other personal consumer reports,13
-9,Checking or savings account,35
-9,Credit card,5
-9,Debt collection,5
-10,Debt collection,570
-10,Checking or savings account,489
-10,Credit card,447
-11,Credit card,45
-11,Checking or savings account,21
-11,"Money transfer, virtual currency, or money service",6
-12,Vehicle loan or lease,143
-12,"Payday loan, title loan, personal loan, or advance loan",23
-12,Credit card,14
-13,"Money transfer, virtual currency, or money service",63
-13,Checking or savings account,60
-13,Credit card,4
-14,Credit card,360
-14,Student loan,183
-14,Mortgage,127
-15,Debt collection,189
-15,Credit reporting or other personal consumer reports,71
-15,Credit card,68
+1,Checking or savings account,953
+1,Credit card,461
+1,"Money transfer, virtual currency, or money service",416
+2,Debt collection,2181
+2,Credit reporting or other personal consumer reports,206
+2,Credit card,158
+3,Debt collection,641
+3,Credit card,375
+3,Checking or savings account,310
+4,Credit card,557
+4,Checking or savings account,475
+4,"Money transfer, virtual currency, or money service",281
+5,Mortgage,428
+5,Vehicle loan or lease,322
+5,Student loan,254

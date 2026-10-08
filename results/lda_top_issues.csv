@@ -1,46 +1,16 @@
 lda_topic,Issue,count
-1,Managing an account,418
-1,Closing an account,178
-1,Fraud or scam,95
-2,Trouble during payment process,78
-2,Struggling to pay mortgage,66
-2,Applying for a mortgage or refinancing an existing mortgage,27
-3,Attempts to collect debt not owed,220
-3,Getting a credit card,7
-3,Written notification about debt,7
-4,Managing an account,147
-4,Problem with a purchase shown on your statement,73
-4,Problem with a lender or other company charging your account,69
-5,Managing an account,2
-5,Problem with a purchase shown on your statement,2
-5,Trouble during payment process,2
-6,Problem with a purchase shown on your statement,357
-6,Managing an account,76
-6,Problem with a lender or other company charging your account,62
-7,Attempts to collect debt not owed,251
-7,False statements or representation,149
-7,Incorrect information on your report,130
-8,Attempts to collect debt not owed,426
-8,Written notification about debt,250
-8,False statements or representation,243
-9,Problem caused by your funds being low,23
-9,Managing an account,6
-9,Problem with a lender or other company charging your account,6
-10,Managing an account,305
-10,Attempts to collect debt not owed,208
-10,Problem with a purchase shown on your statement,117
-11,"Advertising and marketing, including promotional offers",25
-11,"Other features, terms, or problems",17
-11,Opening an account,13
-12,Repossession,42
-12,Managing the loan or lease,40
-12,Getting a loan or lease,30
-13,Managing an account,50
-13,Trouble accessing funds in your mobile or digital wallet,27
-13,Money was not available when promised,12
-14,Fees or interest,125
-14,Dealing with your lender or servicer,105
-14,Incorrect information on your report,97
-15,Attempts to collect debt not owed,131
-15,Incorrect information on your report,50
-15,Getting a credit card,31
+1,Managing an account,538
+1,Closing an account,210
+1,Trouble accessing funds in your mobile or digital wallet,99
+2,Attempts to collect debt not owed,1037
+2,False statements or representation,404
+2,Written notification about debt,377
+3,Attempts to collect debt not owed,222
+3,Managing an account,187
+3,Communication tactics,112
+4,Problem with a purchase shown on your statement,446
+4,Managing an account,288
+4,Problem with a lender or other company charging your account,153
+5,Trouble during payment process,221
+5,Dealing with your lender or servicer,151
+5,Managing the loan or lease,117
